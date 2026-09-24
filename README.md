@@ -12,6 +12,25 @@ it's worth keeping. Eventually this could become a cookbook.
 
 More sections will be added over time.
 
+## Prospects
+
+Recipes found elsewhere that haven't been made yet. Each one is reviewed and logged, then stubbed into a
+section or skipped.
+
+| Source | Log | How to add | Jira |
+| --- | --- | --- | --- |
+| Instagram Reels, posts and saved collections | [`prospects/instagram.md`](prospects/instagram.md) | `/ig-intake <url>` in Claude Code | [HOUSE-53](https://ryan-kolean.atlassian.net/browse/HOUSE-53) |
+
+To run the Instagram intake, start Claude Code in this repo with `claude --chrome`, make sure you're logged
+in to Instagram in that Chrome, and pass it a Reel, post or saved-collection URL:
+
+```
+/ig-intake https://www.instagram.com/reel/<shortcode>/
+```
+
+It skips posts it has already reviewed, logs each new one, asks which to stub, and opens one PR per run.
+See [`prospects/README.md`](prospects/README.md) for details.
+
 ## Finished recipes
 
 - [Cacio e Pepe Sauce](sauces/pasta/cacio-e-pepe-sauce.md)
