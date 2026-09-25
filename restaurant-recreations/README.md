@@ -11,6 +11,7 @@ Status: ✅ finished · 🧪 testing · 📝 stub.
 | Dish | Restaurant | Status | Jira |
 | --- | --- | --- | --- |
 | [Gouda mac and cheese with ham](basecamp-pizza-gouda-mac-and-cheese.md) | Basecamp Pizza Co, South Lake Tahoe, CA | 📝 | [HOUSE-42](https://ryan-kolean.atlassian.net/browse/HOUSE-42) |
+| [Tiramisu brioche french toast](mallow-tiramisu-brioche-french-toast.md) | Mallow, Borough Market, London | 📝 | [HOUSE-53](https://ryan-kolean.atlassian.net/browse/HOUSE-53) |
 
 ## For each recreation, record
 

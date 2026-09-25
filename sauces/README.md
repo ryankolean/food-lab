@@ -27,6 +27,7 @@ A sauce lives in one folder but is listed under every category it pairs with. St
 | [Peppercorn](compound-butters/peppercorn-butter.md) | steak | 📝 |
 | [Blue cheese](compound-butters/blue-cheese-butter.md) | steak | 📝 |
 | [Lemon-dill](compound-butters/lemon-dill-butter.md) | fish | 📝 |
+| [French onion](compound-butters/french-onion-butter.md) | steak, pasta | 📝 |
 
 ### Pasta: [`pasta/`](pasta/)
 
@@ -38,6 +39,7 @@ A sauce lives in one folder but is listed under every category it pairs with. St
 | [Arrabbiata / marinara variants](pasta/arrabbiata-marinara.md) | 📝 |
 | [Pesto](pasta/pesto.md) | 📝 |
 | [Lemon pasta sauce](pasta/lemon-pasta-sauce.md) | 📝 |
+| [Miso chili carbonara](pasta/miso-chili-carbonara.md) | 📝 |
 | Compound butters: cacio e pepe, lemon, garlic-anchovy-chile, sage brown, nduja, herb-garlic, miso | see above |
 
 ### Chicken: [`chicken/`](chicken/)
@@ -47,6 +49,7 @@ A sauce lives in one folder but is listed under every category it pairs with. St
 | [Lemon-herb pan sauce](chicken/lemon-herb-pan-sauce.md) | 📝 |
 | [Soy-ginger glaze](chicken/soy-ginger-glaze.md) | 📝 |
 | [Mustard-cream base](chicken/mustard-cream-base.md) | 📝 |
+| [Crème d'ail](chicken/creme-dail.md) | 📝 |
 | [Chimichurri](steak/chimichurri.md) (in `steak/`) | 📝 |
 
 ### Fish / salmon: [`fish/`](fish/)
@@ -66,6 +69,18 @@ A sauce lives in one folder but is listed under every category it pairs with. St
 | [Peppercorn sauce](steak/peppercorn-sauce.md) | 📝 |
 | [Chimichurri](steak/chimichurri.md) | 📝 |
 | Compound butters: herb-garlic, peppercorn, blue cheese, garlic-anchovy-chile | see above |
+
+### Cold sauces: [`cold-sauces/`](cold-sauces/)
+
+Dressings, dips and blender sauces. **These are not part of the freezer library** — they are mayonnaise,
+yogurt or egg emulsions that break when frozen. They live here because they are still sauces and still
+need a written recipe and a rating.
+
+| Sauce | Pairs with | Status |
+| --- | --- | --- |
+| [Gribiche blender sauce](cold-sauces/gribiche-blender-sauce.md) | fried things, vegetables, eggs | 📝 |
+| [High-protein ranch](cold-sauces/high-protein-ranch.md) | chicken, vegetables | 📝 |
+| [Marry me chicken salad dressing](cold-sauces/marry-me-chicken-salad-dressing.md) | chicken salad | 📝 |
 
 ---
 
@@ -105,6 +120,7 @@ Tomato-based sauces, reductions and glazes, frozen finished or nearly finished.
 ### Freezer standard
 
 - Ice cube trays (1–2 oz) for pan sauces; 1-cup containers or bags frozen flat for pasta sauces
+- Alternative worth testing against the trays: [flat bags scored into one-portion blocks](../techniques/freezer-pasta-sauce-blocks.md)
 - Label with sauce name, date and reheat notes
 - Target shelf life: 3–4 months
 - Freeze flat where possible so it thaws fast
