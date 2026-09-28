@@ -81,6 +81,8 @@ need a written recipe and a rating.
 | [Gribiche blender sauce](cold-sauces/gribiche-blender-sauce.md) | fried things, vegetables, eggs | 📝 |
 | [High-protein ranch](cold-sauces/high-protein-ranch.md) | chicken, vegetables | 📝 |
 | [Marry me chicken salad dressing](cold-sauces/marry-me-chicken-salad-dressing.md) | chicken salad | 📝 |
+| [Crack sauce](cold-sauces/crack-sauce.md) | noodles, salads | 📝 |
+| [Everything sauce](cold-sauces/everything-sauce.md) | tacos, anything | 📝 |
 
 ---
 

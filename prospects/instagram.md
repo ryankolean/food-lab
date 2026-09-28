@@ -35,7 +35,7 @@ post is never reviewed twice.
 | 21 | 2026-09-24 | [reel](https://www.instagram.com/reel/DbE6ckeNfKg/) | @betonbread | Base chocolate chip cookie | baking | baking-and-desserts | idea only | yes (dough) | skipped |
 | 22 | 2026-09-24 | [reel](https://www.instagram.com/reel/Dao8VTStgng/) | @itscheffatty | High-protein ranch | sauce | sauces/cold-sauces | partial | no | stubbed → `sauces/cold-sauces/high-protein-ranch.md` |
 | 23 | 2026-09-24 | [reel](https://www.instagram.com/reel/Da-F9-czga_/) | @theoneeighthitalian | Pizza dog (Ooni) | main | mains | partial | no | stubbed → `mains/pizza-dog.md` |
-| 24 | 2026-09-24 | [reel](https://www.instagram.com/reel/DaDoNd5Ir6f/) | @thegoodbite | Crack sauce + crispy tofu noodle salad | sauce | sauces/cold-sauces | idea only | unknown | skipped |
+| 24 | 2026-09-24 | [reel](https://www.instagram.com/reel/DaDoNd5Ir6f/) | @thegoodbite | Crack sauce + crispy tofu noodle salad | sauce | sauces/cold-sauces | idea only | unknown | stubbed → `sauces/cold-sauces/crack-sauce.md` |
 | 25 | 2026-09-24 | [reel](https://www.instagram.com/reel/DY2m8BysG1P/) | @notjustabartender | House olive brine + extra dirty martini | drink | drinks | full | no | stubbed → `drinks/house-olive-brine-dirty-martini.md` |
 | 26 | 2026-09-24 | [reel](https://www.instagram.com/reel/DZJycLJte0_/) | @itscheffatty | Microwave-first caramelized onions | technique | techniques | idea only | yes | stubbed → `techniques/caramelized-onions-microwave-first.md` |
 | 27 | 2026-09-24 | [reel](https://www.instagram.com/reel/DYnp4duRqfT/) | @violetcooksthings | GF s'mores chocolate crunch cake | baking | baking-and-desserts | idea only | unknown | skipped |
@@ -60,7 +60,7 @@ post is never reviewed twice.
 | 46 | 2026-09-24 | [reel](https://www.instagram.com/reel/DVtw3tajRRw/) | @mallowlondon | Tiramisu brioche french toast | restaurant | restaurant-recreations | full | no | stubbed → `restaurant-recreations/mallow-tiramisu-brioche-french-toast.md` |
 | 47 | 2026-09-24 | [reel](https://www.instagram.com/reel/DWWa7kNgAXK/) | @frohneats | Smoky chicken skewers, garlic yogurt marinade | main | mains | partial | yes (marinade) | stubbed → `mains/smoky-chicken-skewers.md` |
 | 48 | 2026-09-24 | [reel](https://www.instagram.com/reel/DWT2SBVh8qR/) | @organicallyaddison | Espresso brownies | baking | baking-and-desserts | link out | yes | skipped |
-| 49 | 2026-09-24 | [reel](https://www.instagram.com/reel/DWWoNbGSdrL/) | @nickskitchen | Everything sauce | sauce | sauces/cold-sauces | idea only | no | skipped |
+| 49 | 2026-09-24 | [reel](https://www.instagram.com/reel/DWWoNbGSdrL/) | @nickskitchen | Everything sauce | sauce | sauces/cold-sauces | idea only | no | stubbed → `sauces/cold-sauces/everything-sauce.md` |
 | 50 | 2026-09-24 | [reel](https://www.instagram.com/reel/DWMixpdNWiL/) | @flavourfellas_ | Roast leg of lamb + creamy butter beans | main | mains | idea only | unknown | skipped |
 
 ## Details
