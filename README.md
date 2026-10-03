@@ -40,6 +40,15 @@ See [`prospects/README.md`](prospects/README.md) for details.
 ## Finished recipes
 
 - [Cacio e Pepe Sauce](sauces/pasta/cacio-e-pepe-sauce.md)
+- [Orange Chicken Glaze](sauces/chicken/orange-chicken-glaze.md)
+- [Snickerdoodle Cookies](baking-and-desserts/snickerdoodle-cookies.md)
+- [Brown Butter Chocolate Chip Cookies](baking-and-desserts/brown-butter-chocolate-chip-cookies.md)
+- [Chocolate Chocolate Chip Cookies](baking-and-desserts/chocolate-chocolate-chip-cookies.md)
+- [Double Chocolate Chip Cookies](baking-and-desserts/double-chocolate-chip-cookies.md)
+- [Massive Focaccia](baking-and-desserts/massive-focaccia.md)
+- [Neapolitan Pizza Dough](baking-and-desserts/neapolitan-pizza-dough.md)
+- [Ninja Creami Vanilla Ice Cream](baking-and-desserts/ninja-creami-vanilla-ice-cream.md)
+- [Coffee Liqueur](drinks/coffee-liqueur.md)
 
 ## Conventions
 
