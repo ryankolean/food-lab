@@ -9,6 +9,12 @@ it's worth keeping. Eventually this could become a cookbook.
 | --- | --- | --- |
 | [Sauces](sauces/) | Freezer-friendly sauce library: compound butters and conventional sauces for pasta, chicken, fish and steak | [HOUSE-39](https://ryan-kolean.atlassian.net/browse/HOUSE-39) |
 | [Restaurant Recreations](restaurant-recreations/) | Restaurant dishes rebuilt at home | [HOUSE-42](https://ryan-kolean.atlassian.net/browse/HOUSE-42) |
+| [Mains](mains/) | Dinners worth repeating | [HOUSE-53](https://ryan-kolean.atlassian.net/browse/HOUSE-53) |
+| [Baking and Desserts](baking-and-desserts/) | Breads, cookies, cakes and puddings | [HOUSE-53](https://ryan-kolean.atlassian.net/browse/HOUSE-53) |
+| [Sides and Snacks](sides-and-snacks/) | Eggs, potatoes, dips and things on toast | [HOUSE-53](https://ryan-kolean.atlassian.net/browse/HOUSE-53) |
+| [Pantry](pantry/) | Seasoning blends and salts | [HOUSE-53](https://ryan-kolean.atlassian.net/browse/HOUSE-53) |
+| [Techniques](techniques/) | Methods rather than recipes, tested against a control | [HOUSE-53](https://ryan-kolean.atlassian.net/browse/HOUSE-53) |
+| [Drinks](drinks/) | Cocktails and anything else that gets poured | [HOUSE-53](https://ryan-kolean.atlassian.net/browse/HOUSE-53) |
 
 More sections will be added over time.
 
