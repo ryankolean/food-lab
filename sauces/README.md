@@ -6,7 +6,8 @@ cleanly, freeze in meal-sized portions, and reheat to something close to fresh.
 This section works alongside the sous vide / freezer meal-prep routine: proteins vacuum-sealed raw, rice
 portioned, sauce frozen in ice cube trays.
 
-Tracked in Jira: [HOUSE-39](https://ryan-kolean.atlassian.net/browse/HOUSE-39)
+Tracked in Jira: [HOUSE-39](https://ryan-kolean.atlassian.net/browse/HOUSE-39). Sauces transcribed from the
+physical recipe collection: [HOUSE-54](https://ryan-kolean.atlassian.net/browse/HOUSE-54)
 
 ## Index
 
@@ -50,6 +51,8 @@ A sauce lives in one folder but is listed under every category it pairs with. St
 | [Soy-ginger glaze](chicken/soy-ginger-glaze.md) | 📝 |
 | [Mustard-cream base](chicken/mustard-cream-base.md) | 📝 |
 | [Crème d'ail](chicken/creme-dail.md) | 📝 |
+| [Orange chicken glaze](chicken/orange-chicken-glaze.md) | ✅ (freezer untested) |
+| [Green chile sauce](chicken/green-chile-sauce.md) | 🧪 |
 | [Chimichurri](steak/chimichurri.md) (in `steak/`) | 📝 |
 
 ### Fish / salmon: [`fish/`](fish/)
@@ -83,6 +86,12 @@ need a written recipe and a rating.
 | [Marry me chicken salad dressing](cold-sauces/marry-me-chicken-salad-dressing.md) | chicken salad | 📝 |
 | [Crack sauce](cold-sauces/crack-sauce.md) | noodles, salads | 📝 |
 | [Everything sauce](cold-sauces/everything-sauce.md) | tacos, anything | 📝 |
+| [Green goddess sauce](cold-sauces/green-goddess-sauce.md) | salads, vegetables, chicken, sandwiches | 🧪 |
+| [Greek yogurt herb sauce](cold-sauces/greek-yogurt-herb-sauce.md) | chicken, vegetables, pitas and wraps | 🧪 |
+| [Salsa verde](cold-sauces/salsa-verde.md) | tacos, eggs, tortilla chips, grilled chicken | 🧪 |
+| [Smoky chipotle sauce](cold-sauces/smoky-chipotle-sauce.md) | tacos, bowls, chicken, sandwiches | 🧪 |
+| [Lemon spinach yogurt sauce](cold-sauces/lemon-spinach-yogurt-sauce.md) | chicken, fish, grain bowls, flatbread | 🧪 |
+| [Spicy sriracha yogurt sauce](cold-sauces/spicy-sriracha-yogurt-sauce.md) | bowls, tacos, roasted vegetables, fried foods | 🧪 |
 
 ---
 
