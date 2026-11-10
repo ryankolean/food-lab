@@ -111,6 +111,22 @@ Recipes come from chefs, cookbooks and restaurants known for their salsas. See t
 | [Avocado-tomatillo salsa](salsas/avocado-tomatillo-salsa.md) | Rick Bayless | 🧪 |
 | [Ninfa's green sauce](salsas/ninfas-green-sauce.md) | Ninfa's on Navigation, Houston | 🧪 |
 
+### Stick-blender sauces: [`stick-blender/`](stick-blender/)
+
+Sauces made start to finish in one quart deli container with a stick blender. Tracked in
+[HOUSE-75](https://ryan-kolean.atlassian.net/browse/HOUSE-75). See the [stick-blender README](stick-blender/README.md).
+
+| Sauce | Source | Status |
+| --- | --- | --- |
+| [Toum](stick-blender/toum.md) | Maureen Abood | 🧪 |
+| [Basic tahini sauce](stick-blender/zahav-tahini-sauce.md) | Michael Solomonov, *Zahav* | 🧪 |
+| [Schug](stick-blender/zahav-schug.md) | Michael Solomonov, *Zahav* | 🧪 |
+| [Ají verde](stick-blender/aji-verde.md) | J. Kenji López-Alt | 🧪 |
+| [Immersion-blender hollandaise](stick-blender/immersion-blender-hollandaise.md) | J. Kenji López-Alt | 🧪 |
+| [Rose harissa](stick-blender/rose-harissa.md) | Ottolenghi Test Kitchen | 🧪 |
+| [Romesco](stick-blender/romesco.md) | José Andrés | 🧪 |
+| [Chermoula](stick-blender/chermoula.md) | Paula Wolfert | 🧪 |
+
 ---
 
 ## Workstream 1: Compound butters
