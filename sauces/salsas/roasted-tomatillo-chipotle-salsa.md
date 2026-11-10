@@ -7,7 +7,7 @@ pairs-with: [grilled skirt steak, tacos, tortilla chips]
 yield: ~½ cup per source; see Notes
 freezer: untested
 source: "Roberto Santibañez, Truly Mexican (Fonda, NYC) — via Tasting Table https://www.tastingtable.com/688594/roasted-tomatillo-salsa-with-chipotle-and-roasted-garlic-recipe/ and Saveur"
-jira: HOUSE-53
+jira: HOUSE-73
 ---
 
 # Roasted Tomatillo Salsa with Chipotle and Roasted Garlic
@@ -34,7 +34,7 @@ is what gives a salsa depth.** Smoky chipotle mora, sweet roasted garlic and cha
 2. Peel the garlic. Soak the chiles in hot water for 20 minutes (stick-blender step; see Notes).
 3. Roast the tomatillos on the comal or under the broiler, turning, until blackened in spots and soft
    through.
-4. Put the tomatillos, drained chiles, garlic, water and salt into a tall container. Blend with the stick
+4. Put the tomatillos, drained chiles, garlic, water and salt into a quart deli container. Blend with the stick
    blender until smooth. The tomatillo seeds will still be visible.
 5. Thin with more water if needed and adjust the salt.
 

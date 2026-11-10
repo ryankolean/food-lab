@@ -7,7 +7,7 @@ pairs-with: [tacos, eggs, tortilla chips, grilled meat]
 yield: ~2 cups (per source)
 freezer: untested
 source: "Pati Jinich, Pati's Mexican Table, Season 13 — https://patijinich.com/salsa-roja-with-oregano-and-chile-de-arbol/"
-jira: HOUSE-53
+jira: HOUSE-73
 ---
 
 # Salsa Roja with Oregano and Chile de Árbol
@@ -31,7 +31,7 @@ and one garlic clove. Five ingredients and no knife work.
 1. Heat a comal, cast iron skillet or heavy pan over medium heat. Char the whole tomatoes, turning often, for
    15–20 minutes, until completely mushy and charred on all sides. Or broil them for 10–12 minutes, turning
    once.
-2. Put the tomatoes (unpeeled, uncored, seeds in) into a tall blending container. Add the chiles with their
+2. Put the tomatoes (unpeeled, uncored, seeds in) into a quart deli container. Add the chiles with their
    seeds, the oregano, garlic and salt.
 3. Blend smooth with the stick blender, keeping the head submerged. Taste for salt.
 

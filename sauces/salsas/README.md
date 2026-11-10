@@ -2,8 +2,12 @@
 
 Salsas with a lot of flavor and very little knife work. Every recipe here follows the same rule: **the only
 prep is cleaning, charring or toasting the ingredients, then everything is blended smooth with a stick
-(immersion) blender.** No dicing and no pico de gallo. These are smooth, spoonable, taqueria-style table
-salsas.
+(immersion) blender in one quart (32 oz) deli container.** No dicing and no pico de gallo. These are smooth,
+spoonable, taqueria-style table salsas, and the deli container they're blended in is the one they're stored in.
+
+Tracked in Jira: [HOUSE-73](https://ryan-kolean.atlassian.net/browse/HOUSE-73). Companion collections:
+[stick-blender sauces](../stick-blender/) ([HOUSE-75](https://ryan-kolean.atlassian.net/browse/HOUSE-75)) and
+[marinades](../../marinades/) ([HOUSE-74](https://ryan-kolean.atlassian.net/browse/HOUSE-74)).
 
 Each recipe comes from a cook, cookbook or restaurant known for its salsas. The original source is cited in
 each file's front matter, and anything changed to fit the stick-blender method is kept under a clearly
@@ -54,7 +58,7 @@ blender needs.
 5. **Soak dried chiles.** A stick blender can't break down dry chile skins like a high-powered jar blender
    can. Soak toasted dried chiles in hot water for 20–30 minutes before blending, even where the source
    skips this step, and use some of the soaking water as the blending liquid.
-6. **Use a tall, narrow container.** Use the blender's beaker or a wide-mouth quart jar. Put the soft,
+6. **Blend in a quart deli container.** It's tall and narrow enough for the blade to catch everything, and the salsa can be stored in it. Put the soft,
    watery things (tomatoes, tomatillos, liquid) in first and the chiles and garlic on top.
 7. **Keep the blade head submerged.** Lifting it pulls in air and turns a red salsa frothy and pink. Pulse to
    break things down, then run it steadily while moving the head slowly up and down.

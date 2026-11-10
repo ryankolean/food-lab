@@ -7,7 +7,7 @@ pairs-with: [tacos, carnitas, milanesa, fish tacos, chips]
 yield: ~1½ cups (per source)
 freezer: untested   # not expected to freeze (avocado)
 source: "Rick Bayless, Mexico—One Plate at a Time / Exploring Mexico's Kitchen S1E1 — https://www.rickbayless.com/recipe/avocado-tomatillo-salsa-2/"
-jira: HOUSE-53
+jira: HOUSE-73
 ---
 
 # Avocado-Tomatillo Salsa
@@ -30,7 +30,7 @@ ingredients; he made it in the first episode of *Exploring Mexico's Kitchen*.
 
 ## Method
 
-1. Put the tomatillos, chile(s), cilantro and water in a tall container. Blend with the stick blender to a
+1. Put the tomatillos, chile(s), cilantro and water in a quart deli container. Blend with the stick blender to a
    coarse purée.
 2. Add the avocado (and the onion; see Notes) and blend until smooth and creamy.
 3. Thin with water, about a tablespoon at a time, until spoonable. Season with salt.

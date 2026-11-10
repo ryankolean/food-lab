@@ -7,7 +7,7 @@ pairs-with: [cochinita pibil, pork, eggs, enchiladas, tortilla chips]
 yield: ~1½ cups (per source)
 freezer: untested
 source: "Rick Bayless, Exploring Mexico's Kitchen — https://www.rickbayless.com/recipe/roasted-tomato-habanero-salsa/"
-jira: HOUSE-53
+jira: HOUSE-73
 ---
 
 # Roasted Tomato-Habanero Salsa (Chiltomate)
@@ -34,7 +34,7 @@ molcajete salsa. It's very simple and tastes strongly of char.
 2. Take the onion and habaneros off. Flip the tomatoes and broil the other side until blackened and soft,
    about 5 minutes more. Let everything cool a bit.
 3. *(Stick-blender version; see Notes.)* Put the tomatoes and their juices, the habanero(s), the roasted
-   onion, the cilantro and the salt into a tall container. Blend smooth with the stick blender.
+   onion, the cilantro and the salt into a quart deli container. Blend smooth with the stick blender.
 4. Thin with water a tablespoon at a time if needed. Taste for salt.
 
 ## To serve

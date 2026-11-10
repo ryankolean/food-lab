@@ -7,7 +7,7 @@ pairs-with: [tacos, enchiladas, chilaquiles, eggs, grilled chicken, pork]
 yield: ~3 cups (per source)
 freezer: untested
 source: "J. Kenji López-Alt, Serious Eats — https://www.seriouseats.com/charred-salsa-verde-recipe"
-jira: HOUSE-53
+jira: HOUSE-73
 ---
 
 # Charred Salsa Verde
@@ -34,7 +34,7 @@ cooking with (chilaquiles, enchiladas).
 1. Heat the broiler as hot as it goes. Spread the tomatillos (cut side down), onion halves and whole chiles
    on a foil-lined rimmed sheet. Broil until the tomatillos have collapsed and everything is deeply charred
    in spots. Let it cool slightly.
-2. Stem the chiles. Put the vegetables and all their juices in a tall container with **half** the cilantro
+2. Stem the chiles. Put the vegetables and all their juices in a quart deli container with **half** the cilantro
    and blend smooth with the stick blender.
 3. Heat the oil in a large saucepan over high heat until shimmering. Pour in the salsa all at once (it will
    spit, so stand back) and cook, stirring, a few minutes until slightly thickened and darker green.

@@ -7,7 +7,7 @@ pairs-with: [grilled fish, pescado a la talla, steak, tacos, eggs]
 yield: ~1½ cups, estimated
 freezer: untested
 source: "Gabriela Cámara, Contramar (Mexico City) and My Mexico City Kitchen — MasterClass https://www.masterclass.com/articles/gabriela-camaras-salsa-tatemada-recipe"
-jira: HOUSE-53
+jira: HOUSE-73
 ---
 
 # Salsa Tatemada
@@ -41,7 +41,7 @@ then ground together. Fresh serranos give it brightness, and dried morita chiles
 2. Toast the moritas briefly, a few seconds per side, until fragrant and puffed. Soak them in hot water for
    20 minutes (stick-blender step; see Notes).
 3. Peel the garlic. Stem the serranos.
-4. Put everything in a tall container with the salt and blend with the stick blender. Pulse for a rustic
+4. Put everything in a quart deli container with the salt and blend with the stick blender. Pulse for a rustic
    texture or run longer for smooth. Thin with water or chile soaking water. Taste for salt.
 
 ## To serve

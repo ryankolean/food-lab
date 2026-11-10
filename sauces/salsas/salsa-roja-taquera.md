@@ -7,7 +7,7 @@ pairs-with: [tacos al pastor, carnitas, tacos de suadero, eggs]
 yield: ~1½ cups (per source)
 freezer: untested
 source: "Lesley Téllez, Eat Mexico: Recipes from Mexico City's Streets, Markets & Fondas (via Food Network https://www.foodnetwork.com/recipes/salsa-roja-taquera-red-taco-stand-style-salsa-3415836); blog version https://www.themijachronicles.com/2011/12/red-taqueria-style-salsa/"
-jira: HOUSE-53
+jira: HOUSE-73
 ---
 
 # Salsa Roja Taquera (Red Taco-Stand Salsa)
@@ -35,7 +35,7 @@ Téllez wrote *Eat Mexico* after years of leading street-food tours in Mexico Ci
 3. Cover the toasted chiles with hot water and soak about 20 minutes. Keep the soaking water.
 4. Meanwhile, char the tomatoes on the comal (or under the broiler), turning, until soft and blackened in
    spots.
-5. Put the tomatoes, drained chiles, peeled garlic, ⅓ cup of the soaking water and salt into a tall
+5. Put the tomatoes, drained chiles, peeled garlic, ⅓ cup of the soaking water and salt into a quart deli
    container. Blend completely smooth with the stick blender, keeping the head submerged so it doesn't foam.
 6. Thin with more soaking water if needed. The finished salsa should be pourable, not thick. Season with
    salt.

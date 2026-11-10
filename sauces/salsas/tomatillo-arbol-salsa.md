@@ -7,7 +7,7 @@ pairs-with: [tacos, carne asada, chips, eggs, grilled chicken]
 yield: ~1¾ cups (per source)
 freezer: untested
 source: "Rick Bayless, Frontera Grill / Mexico—One Plate at a Time — https://www.rickbayless.com/recipe/arbol-chile-salsa/"
-jira: HOUSE-53
+jira: HOUSE-73
 ---
 
 # Tomatillo-Árbol Chile Salsa
@@ -36,7 +36,7 @@ cookbooks on salsas like this one.
    15 minutes. Cool and peel.
 3. Heat the broiler. Put the tomatillos on a baking sheet and broil about 4 in from the heat until darkly
    roasted and soft, about 5 minutes per side. Cool slightly and keep all the juices.
-4. Drain the chiles. Put the tomatillos and their juices, the chiles and the garlic in a tall container and
+4. Drain the chiles. Put the tomatillos and their juices, the chiles and the garlic in a quart deli container and
    blend smooth with the stick blender.
 5. Stir in enough water to make it spoonable, usually about ¼ cup. Season with salt and the sugar if you're
    using it (it softens the tomatillo tartness).

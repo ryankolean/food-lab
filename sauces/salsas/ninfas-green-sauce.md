@@ -7,7 +7,7 @@ pairs-with: [fajitas, chips, tacos, enchiladas]
 yield: ~4 cups, estimated
 freezer: untested   # not expected to freeze (avocado)
 source: "Ninfa Laurenzo, Ninfa's on Navigation (Houston); recipe via Lisa Fain, Homesick Texan — https://www.homesicktexan.com/salsa-salvation-ninfas-green-sauce/ (adapted from the Houston Chronicle)"
-jira: HOUSE-53
+jira: HOUSE-73
 ---
 
 # Ninfa's Green Sauce (Houston Green Salsa)
@@ -34,7 +34,7 @@ avocado and sour cream. It's tangy, rich and mild.
 
 1. Put the green tomatoes, tomatillos, garlic and jalapeños in a saucepan, barely cover with water and boil
    for about 15 minutes until soft. Drain and let cool slightly.
-2. Put the cooked vegetables, avocados and cilantro in a tall container and blend smooth with the stick
+2. Put the cooked vegetables, avocados and cilantro in a quart deli container and blend smooth with the stick
    blender.
 3. Blend in the sour cream and salt. Chill before serving.
 
