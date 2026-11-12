@@ -7,7 +7,8 @@ it's worth keeping. Eventually this could become a cookbook.
 
 | Section | What's in it | Jira |
 | --- | --- | --- |
-| [Sauces](sauces/) | Freezer-friendly sauce library: compound butters and conventional sauces for pasta, chicken, fish and steak | [HOUSE-39](https://ryan-kolean.atlassian.net/browse/HOUSE-39) |
+| [Sauces](sauces/) | Freezer-friendly sauce library (compound butters and conventional sauces for pasta, chicken, fish and steak), plus smooth stick-blender [salsas](sauces/salsas/) ([HOUSE-73](https://ryan-kolean.atlassian.net/browse/HOUSE-73)) and [sauces](sauces/stick-blender/) ([HOUSE-75](https://ryan-kolean.atlassian.net/browse/HOUSE-75)) | [HOUSE-39](https://ryan-kolean.atlassian.net/browse/HOUSE-39) |
+| [Marinades](marinades/) | One-container, stick-blender marinades from chefs and restaurants known for them | [HOUSE-74](https://ryan-kolean.atlassian.net/browse/HOUSE-74) |
 | [Restaurant Recreations](restaurant-recreations/) | Restaurant dishes rebuilt at home | [HOUSE-42](https://ryan-kolean.atlassian.net/browse/HOUSE-42) |
 | [Mains](mains/) | Dinners worth repeating | [HOUSE-53](https://ryan-kolean.atlassian.net/browse/HOUSE-53) |
 | [Baking and Desserts](baking-and-desserts/) | Breads, cookies, cakes and puddings | [HOUSE-53](https://ryan-kolean.atlassian.net/browse/HOUSE-53) |

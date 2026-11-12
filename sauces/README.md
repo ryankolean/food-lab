@@ -93,6 +93,40 @@ need a written recipe and a rating.
 | [Lemon spinach yogurt sauce](cold-sauces/lemon-spinach-yogurt-sauce.md) | chicken, fish, grain bowls, flatbread | 🧪 |
 | [Spicy sriracha yogurt sauce](cold-sauces/spicy-sriracha-yogurt-sauce.md) | bowls, tacos, roasted vegetables, fried foods | 🧪 |
 
+### Salsas: [`salsas/`](salsas/)
+
+Smooth salsas made from charred, toasted or raw ingredients, blended with a stick blender, with no knife work.
+Recipes come from chefs, cookbooks and restaurants known for their salsas. See the
+[salsas README](salsas/README.md) for the method rules.
+
+| Salsa | Source | Status |
+| --- | --- | --- |
+| [Salsa roja with oregano and chile de árbol](salsas/salsa-roja-oregano-arbol.md) | Pati Jinich | 🧪 |
+| [Salsa roja taquera](salsas/salsa-roja-taquera.md) | Lesley Téllez, *Eat Mexico* | 🧪 |
+| [Roasted tomato-habanero salsa (chiltomate)](salsas/roasted-tomato-habanero-salsa.md) | Rick Bayless | 🧪 |
+| [Salsa tatemada](salsas/salsa-tatemada.md) | Gabriela Cámara, Contramar | 🧪 |
+| [Tomatillo-árbol chile salsa](salsas/tomatillo-arbol-salsa.md) | Rick Bayless, Frontera Grill | 🧪 |
+| [Roasted tomatillo salsa with chipotle and roasted garlic](salsas/roasted-tomatillo-chipotle-salsa.md) | Roberto Santibañez, *Truly Mexican* | 🧪 |
+| [Charred salsa verde](salsas/charred-salsa-verde.md) | J. Kenji López-Alt, Serious Eats | 🧪 |
+| [Avocado-tomatillo salsa](salsas/avocado-tomatillo-salsa.md) | Rick Bayless | 🧪 |
+| [Ninfa's green sauce](salsas/ninfas-green-sauce.md) | Ninfa's on Navigation, Houston | 🧪 |
+
+### Stick-blender sauces: [`stick-blender/`](stick-blender/)
+
+Sauces made start to finish in one quart deli container with a stick blender. Tracked in
+[HOUSE-75](https://ryan-kolean.atlassian.net/browse/HOUSE-75). See the [stick-blender README](stick-blender/README.md).
+
+| Sauce | Source | Status |
+| --- | --- | --- |
+| [Toum](stick-blender/toum.md) | Maureen Abood | 🧪 |
+| [Basic tahini sauce](stick-blender/zahav-tahini-sauce.md) | Michael Solomonov, *Zahav* | 🧪 |
+| [Schug](stick-blender/zahav-schug.md) | Michael Solomonov, *Zahav* | 🧪 |
+| [Ají verde](stick-blender/aji-verde.md) | J. Kenji López-Alt | 🧪 |
+| [Immersion-blender hollandaise](stick-blender/immersion-blender-hollandaise.md) | J. Kenji López-Alt | 🧪 |
+| [Rose harissa](stick-blender/rose-harissa.md) | Ottolenghi Test Kitchen | 🧪 |
+| [Romesco](stick-blender/romesco.md) | José Andrés | 🧪 |
+| [Chermoula](stick-blender/chermoula.md) | Paula Wolfert | 🧪 |
+
 ---
 
 ## Workstream 1: Compound butters
