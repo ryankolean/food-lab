@@ -4,7 +4,7 @@ section: sauces
 category: stick-blender
 status: testing
 pairs-with: [eggs, falafel, grilled meat, shawarma, hummus, sandwiches]
-yield: ~2 cups (estimate)
+yield: ~2 cups (per source)
 freezer: untested
 source: "Michael Solomonov, Zahav (via Tasting Table — https://www.tastingtable.com/686357/schug-secret-weapon-recipe/)"
 jira: HOUSE-75
@@ -13,14 +13,13 @@ jira: HOUSE-75
 # Schug (Zahav)
 
 Yemeni green chile sauce: a loose, oily, very hot herb paste served with almost everything in Israel.
-Solomonov's version at Zahav uses serranos for their sharp heat and leans on cardamom and coriander rather
-than cumin.
+Solomonov's version at Zahav uses serranos and is spiced with cardamom and coriander.
 
 ## Ingredients
 
 | Amount | Ingredient | Notes |
 | ---: | --- | --- |
-| 20 | Serrano chiles | Stems pulled off, halved; ~120 g. Jalapeños as backup (see Notes) |
+| 20 | Serrano chiles | Stems pulled off, ribs and seeds left in; halved; ~120 g. Jalapeños as backup (see Notes) |
 | ~25 g | Parsley leaves | 1 cup; tender stems are fine |
 | ~25 g | Cilantro leaves | 1 cup; tender stems are fine |
 | ~20 g | Garlic | 4 cloves, peeled |
@@ -28,7 +27,7 @@ than cumin.
 | ~6 g | Ground cardamom | 1 tablespoon |
 | ~5 g | Ground coriander | 1 tablespoon |
 | ~30 g | Lemon juice | 2 tablespoons |
-| ~218 g | Canola or vegetable oil | 1 cup |
+| ~218 g | Vegetable oil | 1 cup. Canola works |
 
 ## Method
 
@@ -52,15 +51,15 @@ A small spoonful on eggs, hummus, falafel, grilled meat or in a sandwich. It's v
 
 ### From the source
 - **Don't overprocess.** Solomonov says it should be streaky and broken, not smooth and emulsified.
-- Serranos are his choice; jalapeños work, but their heat varies a lot by season and by pepper.
-- He uses cardamom and coriander instead of the fenugreek or cumin some cooks add.
+- Serranos are his choice, with the ribs and seeds left in.
+- He uses cardamom and coriander, and encourages experimenting with other spices such as fenugreek and cumin.
 
 ### Added later (not in the source, confirm or edit)
 - **Stick-blender adaptation.** The source pulses everything in a food processor and stirs in the oil.
   A stick blender needs some liquid to catch the herbs, so a quarter of the oil goes in early.
+- Jalapeños work as a backup, but their heat varies a lot by season and by pepper.
 - Wear gloves when handling 20 serranos.
 - **Gram estimates** (especially the herbs and the 1 tablespoon of kosher salt) are approximate.
-- The source page couldn't be opened from this session; quantities came via search.
 
 ## Test log
 

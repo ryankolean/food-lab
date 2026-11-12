@@ -78,6 +78,8 @@ With grilled leeks or spring onions, grilled fish, potatoes or eggs. It's also a
   past about three-quarters, blend in two batches and stir them together.
 - **Oven temperature and roasting times** are estimates; the summaries found didn't include them.
 - Hazelnuts are common in other romesco recipes but not in Andrés's.
+- **Still needs a source check** (the Spanish Suitcase page returned errors): every quantity, the roasting
+  times and the yield. A related Andrés romesco on joseandres.com roasts at 350°F and makes about 2 cups.
 - **Gram estimates** for the vegetables are approximate. The source page couldn't be opened from this
   session; quantities came via search.
 

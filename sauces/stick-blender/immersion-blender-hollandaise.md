@@ -25,7 +25,7 @@ Double the source recipe, so there's enough depth to cover the blade in a quart 
 | 2 | Egg yolks | ~36 g. Source: 1 |
 | ~10 g | Lemon juice | 2 teaspoons. Source: 1 teaspoon |
 | ~10 g | Water | 2 teaspoons. Source: 1 teaspoon |
-| ~226 g | Unsalted butter | 2 sticks (16 tablespoons). Source: 1 stick |
+| ~226 g | Unsalted butter | 2 sticks (16 tablespoons). Source: 1 stick. **Unconfirmed**; the repost read lists no butter amount |
 | | Kosher salt | A pinch, then to taste |
 | | Cayenne or hot sauce | Optional, to taste |
 
@@ -42,20 +42,20 @@ Double the source recipe, so there's enough depth to cover the blade in a quart 
 
 ## To serve
 
-Right away, on eggs Benedict, asparagus or fish. Hold it a short while in a warm (not hot) spot, such as a
-thermos or a bowl over warm water.
+Right away, on eggs Benedict, asparagus or fish. It holds up to 1 hour in a warm place in a lidded container,
+such as a thermos (per source).
 
 ## Storage
 
-- **Fridge:** Best used immediately. Leftovers keep 1–2 days and set solid; rewarm gently over warm water,
-  whisking, with a splash of hot water (estimate).
+- **Fridge:** Not recommended. The source says it can be held warm for up to 1 hour but cannot be cooled and
+  reheated.
 - **Freezer:** Not recommended. Egg-butter emulsions break when frozen.
 
 ## Notes
 
 ### From the source
 - **Use a cup that barely fits the blender head.** The yolk has to be under the blade.
-- **The butter must be very hot**, about 220°F. That heat cooks the yolk; cooler butter makes a thin sauce.
+- **The butter must be very hot**, about 220°F: melt it over high heat, swirling, until the foaming subsides.
 - Pour slowly, about 30 seconds for the whole stick.
 
 ### Added later (not in the source, confirm or edit)
@@ -64,9 +64,11 @@ thermos or a bowl over warm water.
   blade still isn't covered, tilt the container so the yolks pool around the head while you start the pour.
 - **If it's thin or breaks:** put a fresh yolk and a teaspoon of hot water in a clean container, then blend
   the broken sauce back in slowly with the head on the bottom.
-- Quantities (1 yolk, 1 teaspoon each lemon and water, 1 stick butter) are confirmed only through reposts and
-  a separate recipe site that match each other. Check them against the Serious Eats original.
-- The source page couldn't be opened from this session; quantities came via search.
+- Cooler butter is the usual cause of a thin sauce; the heat is what cooks the yolk.
+- **Butter quantity is unconfirmed.** The repost read (credited to Jim Weber, thanking Kenji for the method)
+  lists 1 yolk, 1 teaspoon each lemon juice and water, a pinch of salt and optional cayenne, but no butter
+  amount. The 1 stick figure comes from search only. Check it against the Serious Eats original, which is
+  blocked from this session.
 
 ## Test log
 

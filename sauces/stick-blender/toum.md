@@ -68,6 +68,8 @@ With shawarma, chicken, grilled meats and fries. Very strong at first; it mellow
   blend the broken sauce back in a spoonful at a time. Some Lebanese restaurants add an egg white as
   insurance; that makes it a different sauce, but it's a reliable fallback.
 - **Gram estimates** for garlic, salt and oil are approximate. Fridge life is an estimate.
+- **Still needs a source check** (Abood's page returned 403): the clove count (an adaptation of her
+  cookbook version uses a whole head, about 12 cloves), the 1 cup oil, and her immersion-blender statement.
 - The source page couldn't be opened from this session; quantities came via search.
 
 ## Test log

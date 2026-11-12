@@ -23,7 +23,7 @@ Status: ✅ finished · 🧪 testing · 📝 stub.
 | [Immersion-blender hollandaise](immersion-blender-hollandaise.md) | J. Kenji López-Alt, Serious Eats | Emulsion | Eggs Benedict, asparagus, salmon | 🧪 |
 | [Rose harissa](rose-harissa.md) | Ottolenghi Test Kitchen, *Extra Good Things* | Chile | Chicken, lamb, carrots, yogurt | 🧪 |
 | [Romesco](romesco.md) | José Andrés, *Tapas* | Nut-seed | Grilled leeks, fish, potatoes | 🧪 |
-| [Chermoula](chermoula.md) | Paula Wolfert, *The Food of Morocco* | Green | Fish, shrimp, chicken | 🧪 |
+| [Chermoula](chermoula.md) | Marcus Samuelsson, *The Soul of a New Cuisine* | Green | Fish, shrimp, chicken | 🧪 |
 
 ## The method: shared rules for every sauce here
 
