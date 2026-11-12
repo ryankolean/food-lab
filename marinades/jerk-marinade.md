@@ -68,6 +68,8 @@ sauce on the side.
   the blade has liquid to pull the scallions down.
 - **Soy sauce and oil amounts are estimates.** Every copy of the recipe found showed a garbled fraction.
   Check the Sandals page and correct the table.
+- **Still to check on sandals.com:** search summaries of the Sandals page give ¼ cup soy sauce (matches)
+  but **¾ cup vegetable oil**, not ¼ cup, and say to marinate meat overnight. The page blocked fetching.
 - **Optional:** Many Jamaican home recipes add lime juice or vinegar and brown sugar. Not in this source.
 - **Marinating window** (12–24 hours) and the grilling method are not from the source.
 - **Gram estimates** throughout are approximate. The source page couldn't be opened from this session;

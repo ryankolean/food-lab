@@ -4,7 +4,7 @@ section: marinades
 category: beef
 status: testing
 pairs-with: [skirt steak, flank steak, tacos, burritos, salsa verde, guacamole]
-yield: ~1½ cups marinade, enough for ~900 g (2 lb) skirt steak (estimate)
+yield: ~1½ cups marinade; half marinates ~900 g (2 lb) skirt steak, half is served as salsa (per source)
 freezer: untested
 source: "J. Kenji López-Alt, Serious Eats, The Best Carne Asada (via repost https://www.punchfork.com/recipe/The-Best-Carne-Asada-Serious-Eats; copy https://rmeineke.github.io/recipes/main_a-h/carne.pdf)"
 jira: HOUSE-74
@@ -33,8 +33,8 @@ explains why each ingredient is there.
 | ~26 g | Dark brown sugar | 2 tablespoons |
 | ~6 g | Cumin seed, toasted and ground | 1 tablespoon whole |
 | ~2 g | Coriander seed, toasted and ground | 1 teaspoon whole |
-| 1 small bunch | Cilantro | Leaves and tender stems, rough-torn; ~40 g |
-| | Kosher salt | To taste |
+| 1 small bunch | Cilantro | Leaves and tender stems, rough-torn, divided (some for serving); ~40 g |
+| | Kosher salt | To taste, plus 2 teaspoons extra for the marinating half |
 | ~900 g | Skirt steak | 2 lb (2–3 whole steaks), cut into 5–6 in lengths |
 
 ## Method
@@ -46,10 +46,14 @@ explains why each ingredient is there.
 3. Into the deli container, in this order: orange juice, lime juice, soy sauce, fish sauce, olive oil,
    chipotles, garlic, brown sugar, ground spices, soaked chiles, cilantro on top. Blend completely smooth
    with the stick blender, about 1 minute, head submerged. Season with salt.
-4. Put the steak in a zip-top bag, pour in the marinade, squeeze out the air and refrigerate at least
-   3 hours and up to about 10 (window is an estimate; see Notes).
-5. To cook: wipe off excess marinade and grill over a very hot charcoal fire, or sear in a smoking-hot cast
-   iron pan, about 3–4 minutes per side for medium-rare. Rest 5 minutes and slice thin against the grain.
+4. **Reserve half** in a sealed container in the fridge as the table salsa. Stir an extra 2 teaspoons of
+   salt into the other half; it should taste slightly saltier than is comfortable.
+5. Coat the steak in the salted half, put it in a gallon zip-top bag with any extra marinade, squeeze out
+   the air and refrigerate at least 3 hours and up to overnight.
+6. To cook: take the reserved salsa out to warm up a little. Wipe off excess marinade and grill directly
+   over the hot side of a charcoal fire (or a gas grill on high), turning occasionally, until well charred
+   and the center reads 110°F / 43°C, 5–10 minutes total. Rest 5 minutes, slice thin against the grain and
+   pass the reserved salsa.
 
 ## To serve
 
@@ -66,18 +70,19 @@ Chopped for tacos with onion, cilantro, lime and a green salsa, or sliced over r
 
 ### From the source
 - The microwave toast in step 1 is Kenji's method for dried chiles.
-- Soy and fish sauce add glutamates for a meatier taste and help the steak brown fast.
 - Sour (Seville) orange is preferred; regular orange juice works.
-- An older Serious Eats version circulates with five anchos, roasted jalapeños and a 3-hour marinade.
+- Half the blended sauce marinates the steak (with 2 teaspoons extra salt); the other half is the salsa.
 
 ### Added later (not in the source, confirm or edit)
+- Soy and fish sauce add glutamates for a meatier taste and faster browning (Kenji's reasoning, not in
+  the copy read).
+- An older Serious Eats version reportedly circulates with five anchos, roasted jalapeños and a 3-hour
+  marinade; not checked.
 - **Stick-blender adaptation.** Kenji's original goes straight into a jar blender. The 20-minute soak is
   added so a stick blender can break down the chile skins.
-- **Marinating window** (3–10 hours) is an estimate. Don't push skirt steak past overnight in this much
-  citrus.
 - **Gram estimates** for chiles, garlic, spices, sugar and cilantro are approximate, not from the source.
-- Serious Eats couldn't be opened from this session. Quantities came via search results summarizing
-  reposts, which mostly agreed. One repost lists 1 lb steak; the others say 2 lb.
+- Quantities and method were read from the rmeineke.github.io copy (PDF). Serious Eats and Punchfork
+  blocked fetching, so the original page wasn't read.
 
 ## Test log
 

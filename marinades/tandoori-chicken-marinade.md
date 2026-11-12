@@ -21,7 +21,7 @@ onion, garlic, ginger, green chile and garam masala. It also works for boneless 
 
 | Amount | Ingredient | Notes |
 | ---: | --- | --- |
-| ~1.25 kg | Chicken pieces | 2½ lb legs and/or breasts, skinned. Cut 2–3 deep slits in each piece |
+| ~1.25 kg | Chicken pieces | 2½ lb legs and/or breasts, skinned. Legs cut in 2, breasts in 4; 2 deep crosswise slits in each |
 | ~5 g | Salt | 1 teaspoon (fine salt), for step 1 |
 | ~45 g | Lemon juice | 3 tablespoons, for step 1 |
 | ~460 g | Plain whole-milk yogurt | 450 ml / ¾ pint |
@@ -30,22 +30,23 @@ onion, garlic, ginger, green chile and garam masala. It also works for boneless 
 | 2.5 cm piece | Fresh ginger | 1 in, peeled, sliced into coins; ~10 g |
 | 1–2 | Fresh hot green chiles | Stemmed, rough-chopped; ~5–10 g |
 | ~5 g | Garam masala | 2 teaspoons |
-| | Red/orange food coloring | Optional, for the classic color |
 
 ## Method
 
-1. Rub the salt and lemon juice into the chicken and into the slits. Set aside 20 minutes.
+1. Rub half the salt and lemon juice into one side of the chicken and into the slits, turn and repeat
+   with the rest. Set aside 20 minutes.
 2. Meanwhile, into the deli container: yogurt first, then onion, garlic, ginger, chiles and garam masala.
-   Blend smooth with the stick blender, head submerged. Strain through a sieve if you want it silky (the
-   source strains it).
-3. Pour the yogurt paste over the chicken and rub it into the slits. Cover and refrigerate 8–24 hours.
+   Blend smooth with the stick blender, head submerged. Strain through a coarse sieve, pressing out as much
+   liquid as possible (the source strains it).
+3. Pour the yogurt paste over the chicken and its juices and rub it into the slits. Cover and refrigerate 8–24 hours.
 4. To cook: heat the oven to its highest setting. Lift the chicken out of the marinade, shaking off the
-   excess, and bake on a shallow tray until cooked through and browned in spots, 20–25 minutes. Finish
+   excess, and bake in a single layer on a shallow tray in the top third of the oven until cooked
+   through, 20–25 minutes. Finish
    under the broiler or on a hot grill for char if you like.
 
 ## To serve
 
-With lemon wedges, sliced red onion, naan and raita, or tossed into a makhani or tikka masala sauce.
+With lime or lemon wedges, sliced red onion, naan and raita, or tossed into a makhani or tikka masala sauce.
 
 ## Storage
 
@@ -60,16 +61,16 @@ With lemon wedges, sliced red onion, naan and raita, or tossed into a makhani or
 - Two stages: salt and lemon juice first, then the yogurt paste.
 - The yogurt marinade is blended and strained, then rubbed into slits in the chicken.
 - Marinating window: 8–24 hours. Bake at the oven's highest setting, 20–25 minutes.
-- Food coloring is traditional for the red-orange color and optional.
 
 ### Added later (not in the source, confirm or edit)
 - **Stick-blender adaptation.** The source uses a jar blender or food processor. A stick blender handles it
   easily since the yogurt gives plenty of liquid.
 - **For tikka:** use ~1 kg boneless thighs in 4 cm chunks, skewer, and grill or broil hot, 8–10 minutes.
-- **Optional:** 1–2 teaspoons Kashmiri chile powder adds color without coloring. Not in this source.
+- **Optional:** red/orange food coloring gives the classic tandoori color; it isn't in this recipe.
+  1–2 teaspoons Kashmiri chile powder adds color without it. Not in this source either.
 - **Gram estimates** for the onion, garlic, ginger and chiles are approximate.
-- Transcriptions of this recipe vary (one uses ~1¾ cups yogurt for 2 lb chicken). Jaffrey's book couldn't
-  be opened from this session; the quantities came via search results summarizing blog transcriptions.
+- Quantities and method were read from the annullacooks blog transcription, not the book. Other
+  transcriptions reportedly vary (one uses ~1¾ cups yogurt for 2 lb chicken).
 - Swap note: the target was a chicken tikka; Jaffrey's tandoori marinade was the notable Indian source
   with a confirmable quantity list.
 

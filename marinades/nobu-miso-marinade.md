@@ -4,9 +4,9 @@ section: marinades
 category: fish
 status: testing
 pairs-with: [black cod, sablefish, salmon, Chilean sea bass, hajikami pickled ginger, steamed rice]
-yield: ~2 cups marinade, enough for 6–8 black cod fillets, ~1–1.2 kg (estimate)
+yield: ~3 cups (800 g) marinade, enough for 4 black cod fillets, ~230 g each (per source)
 freezer: untested
-source: "Nobu Matsuhisa, Nobu Now (Nobu-style saikyo miso), quantities via secondary recipe sites; Matsuhisa's recipe also at Saveur — https://www.saveur.com/article/recipes/broiled-miso-marinated-black-cod/"
+source: "Nobu Matsuhisa, Black Cod with Miso / Nobu Style Saikyo Miso (via lovefood https://lovefood.com/recipes/amp/60597/nobu-matsuhisas-black-cod-with-miso); Matsuhisa's recipe also at Saveur — https://www.saveur.com/article/recipes/broiled-miso-marinated-black-cod/"
 jira: HOUSE-74
 ---
 
@@ -14,25 +14,25 @@ jira: HOUSE-74
 
 The marinade behind black cod with miso, Nobu Matsuhisa's signature dish since Matsuhisa opened in Los
 Angeles in 1987 and one of the most copied restaurant dishes anywhere. It's a sweet white-miso cure: sake
-and mirin boiled briefly to cook off the alcohol, then sweet Kyoto-style (saikyo) miso and sugar. The fish
+and mirin boiled briefly to cook off the alcohol, then white miso and a lot of sugar. The fish
 sits in it for two to three days, then is broiled until the edges caramelize.
 
 ## Ingredients
 
 | Amount | Ingredient | Notes |
 | ---: | --- | --- |
-| ~100 g | Sake | 3½ fl oz / 100 ml |
-| ~115 g | Mirin | 3½ fl oz / 100 ml |
-| ~300 g | White (saikyo) miso | 10½ oz. Source specifies Yamajirushi Yamagiko |
-| ~150 g | Granulated sugar | 5¼ oz |
-| 6–8 | Black cod (sablefish) fillets | ~150 g each, skin on, ~1–1.2 kg total |
+| ~150 g | Sake | ¾ cup / 150 ml |
+| ~175 g | Mirin | ¾ cup / 150 ml |
+| 450 g | White miso paste | 2 cups |
+| 225 g | Granulated sugar | 1¼ cups |
+| 4 | Black cod (sablefish) fillets | ~230 g (½ lb) each, skin on, ~920 g total |
 
 ## Method
 
 1. Bring the sake and mirin to a boil in a small saucepan over high heat and boil 20 seconds to burn off
    the alcohol.
-2. Lower the heat to medium. Add the miso and stir until it dissolves, then add the sugar. Raise the heat
-   and stir constantly, so it doesn't scorch, until the sugar dissolves.
+2. Lower the heat. Add the miso and stir until it dissolves in the liquid. Return to high heat, add the
+   sugar and stir constantly, so it doesn't scorch, until the sugar dissolves.
 3. Pour it into the deli container and blend with the stick blender for 20–30 seconds to make it
    completely smooth. Cool to room temperature, then chill.
 4. Pat the fish dry. Slather it with the marinade in a non-reactive dish or zip-top bag. Refrigerate
@@ -59,20 +59,19 @@ Steamed rice and a simple green vegetable.
 ### From the source
 - Boil the sake and mirin 20 seconds before adding the miso, then the sugar.
 - Marinate 2–3 days.
-- Saikyo miso is sweeter and milder than regular white miso. With regular white (shiro) miso, cut the
-  sugar a little.
+- To serve: wipe off the excess miso without rinsing, grill or broil until browned, then bake at 400°F
+  10–15 minutes. Garnish with hajikami and a few drops of miso on the plate.
 
 ### Added later (not in the source, confirm or edit)
 - **Deli-container note.** This is the one recipe that needs a pot for steps 1–2. The stick blender is just
   for smoothing out lumps of miso.
-- **Quantity conflict.** Versions differ: The Kitchn's copy uses ¼ cup each sake, mirin and miso with
-  3 tablespoons sugar (4 fillets); the Saveur snippet showed ½ cup sugar and ¼ cup sake. The *Nobu Now*
-  weights above keep the same ratio (miso about twice the sugar; sake equals mirin) and fit a quart. Halve
-  for 3–4 fillets.
-- **Oven temperature and broil method** are from widely repeated versions of the recipe, not confirmed
-  from the book.
-- The source pages couldn't be opened from this session; the quantities came via search results
-  summarizing secondary sites.
+- **Miso choice.** Some versions name a sweet saikyo miso (e.g., Yamajirushi); the source read just says
+  white miso paste. If you use a sweet saikyo miso, consider cutting the sugar a little. Unconfirmed.
+- **Quantity conflict.** Versions differ: a Saveur search snippet showed ¾ cup miso, ½ cup sugar, ¼ cup +
+  2 tablespoons mirin and ¼ cup sake, mixed over a double boiler. The amounts above follow the lovefood
+  copy. Halve for 2 fillets.
+- Quantities and method were read from lovefood.com's copy of Matsuhisa's recipe, not the book. Saveur and
+  The Kitchn blocked fetching.
 
 ## Test log
 

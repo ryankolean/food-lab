@@ -4,7 +4,7 @@ section: marinades
 category: pork
 status: testing
 pairs-with: [pork shoulder, cubanos, black beans, rice, chicken thighs]
-yield: ~2 cups marinade, enough for a 2–2.7 kg (4–6 lb) pork shoulder (estimate)
+yield: ~2 cups marinade, enough for a 2.7 kg (6 lb) pork shoulder (per source)
 freezer: untested
 source: "Roy Choi, The Chef Show (Jon Favreau), Roast Mojo Pork — https://thechefshow.webflow.io/recipes/roast-mojo-pork"
 jira: HOUSE-74
@@ -29,8 +29,9 @@ garlicky citrus and herb marinade with a lot of olive oil, built for a slow-roas
 | ~6 g | Mint leaves | 4 tablespoons |
 | ~2 g | Fresh oregano leaves | 2 teaspoons |
 | ~2 g | Ground cumin | 1 teaspoon |
-| | Salt and black pepper | To taste |
-| 2–2.7 kg | Boneless pork shoulder | 4–6 lb |
+| ~1 g | Ground black pepper | ⅔ teaspoon |
+| ~4 g | Fine sea salt | ⅔ teaspoon |
+| ~2.7 kg | Pork shoulder | 6 lb |
 
 ## Method
 
@@ -40,11 +41,11 @@ garlicky citrus and herb marinade with a lot of olive oil, built for a slow-roas
    the stick blender until the herbs and garlic are finely broken down and the mojo is emulsified, head
    submerged.
 3. **Set aside about ½ cup** in a clean jar before it touches raw meat, if you want it as a sauce later.
-4. Brine the pork first if you have time (source: 12 hours, see Notes), pat it dry, then pour the mojo
-   over it in a bag or covered dish. Marinate at least 2 hours, ideally overnight, turning once or twice.
-5. To cook: roast low and slow, around 300°F / 150°C, until the internal temperature reaches 170°F / 77°C
-   (source), 3–4 hours for a 4–6 lb shoulder. Then crank the oven or use the broiler to crisp the outside.
-   Rest, then slice or pull.
+4. Brine the pork for 12 hours (brine in Notes), pat it dry, then pour the mojo over it in a bag or
+   covered dish. Marinate at least 2 hours.
+5. To cook: slow-roast, basting with the mojo throughout, until the internal temperature reaches
+   170°F / 77°C and the inside is still light pink. Around 300°F / 150°C for 3–4 hours is a starting
+   point (estimate). Roast until the outside is crispy. For Cubanos, chill the cooked pork before slicing.
 
 ## To serve
 
@@ -63,17 +64,21 @@ rice and the reserved mojo spooned over.
 
 ### From the source
 - *The Chef Show* version brines the pork shoulder for 12 hours, marinates it at least 2 hours, then
-  slow-roasts it to 170°F.
-- A widely shared version of the film recipe (Flavorite) uses the same quantities and marinates 12–24
-  hours. RecipeTin Eats has a variation with more oil and juice and less herb.
+  slow-roasts it to 170°F, basting with the marinade throughout.
+- The mojo is made by blending all the ingredients in a blender.
+- Brine: 4 cups orange juice, 3½ cups water, ½ cup rice vinegar, ½ cup spiced rum, ½ cup salt, ¼ cup
+  sugar, lots of minced garlic, 1 tablespoon each fresh thyme, rosemary, oregano, sage and peppercorns,
+  and 3 bay leaves.
 
 ### Added later (not in the source, confirm or edit)
-- **Stick-blender adaptation.** The source minces the garlic and whisks the marinade. Here it's all blended,
-  which also emulsifies the oil and makes the herbs coat the meat better.
-- **Brine quantities** aren't given here; the search results didn't include them. Check the Chef Show page.
-- **Oven temperature** and roasting time are estimates.
-- **Gram estimates** throughout are approximate. The source page couldn't be opened from this session;
-  the quantities came via search results.
+- **Stick-blender adaptation.** The source uses a jar blender. A stick blender in the deli container
+  works the same way and emulsifies the oil.
+- **Brine** doesn't fit the quart container; use a large pot or brining bag.
+- **Reserving ½ cup** of mojo as a sauce is added; the source bastes with it instead.
+- **Oven temperature** and roasting time are estimates; the source gives neither.
+- A widely shared version of the film recipe (Flavorite) reportedly marinates 12–24 hours, and RecipeTin
+  Eats has a variation with more oil and juice and less herb. Not checked.
+- **Gram estimates** throughout are approximate. Quantities were read from the Chef Show recipe page.
 
 ## Test log
 

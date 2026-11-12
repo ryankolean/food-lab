@@ -70,6 +70,9 @@ onion.
 - **Marinating window** is an estimate, not from the source.
 - **Gram estimates** for the pear, onion, garlic and ginger are approximate. Maangchi's page couldn't be
   opened from this session; the quantities came via search results.
+- **Still to check on maangchi.com:** pear, onion, garlic and ginger amounts match search snippets of this
+  recipe, but the soy sauce, brown sugar/rice syrup and sesame oil amounts only matched her easy and pork
+  bulgogi pages. The page blocked fetching.
 
 ## Test log
 

@@ -31,26 +31,30 @@ them work in a home kitchen.
 | 3 cloves | Garlic | Peeled; ~15 g |
 | ~1 g | Dried Mexican oregano | 1 teaspoon |
 | ~2 g | Ground cumin | 1 teaspoon |
+| ~9 g | Vegetable oil | 2 teaspoons, for blooming the spices |
 | ~8 g | Kosher salt | 2½ teaspoons (Diamond Crystal) |
 | ~8 g | Sugar | 2 teaspoons |
-| ~900 g | Boneless pork shoulder, blade-end loin or sirloin | 2 lb, sliced ~¼ in thick (the butcher can do this) |
+| ~900 g | Boneless blade-end loin or sirloin pork roast | 2 lb, sliced as thin as possible, then pounded under ¼ in |
 | ~225 g | Sliced bacon | 8 oz |
 | 1 small | Pineapple | Peeled, cored and quartered lengthwise; roasted to serve, not blended |
 
 ## Method
 
-1. Toast the chiles in a dry saucepan over medium heat, pressing and turning, until fragrant and pliable,
-   about 1 minute. Don't let them smoke.
+1. Toast the chiles in a saucepan over medium heat, pressing and turning, until fragrant and pliable,
+   about 5 minutes. Don't let them smoke.
 2. Add the stock, bring to a simmer, then take it off the heat and let the chiles soften 10–20 minutes.
-3. Pour the chiles and stock into the deli container. Add the vinegar, chipotle and its sauce, achiote,
-   garlic, oregano, cumin, salt and sugar. Blend completely smooth with the stick blender, head submerged.
-   It should be about as thick as ketchup.
-4. Put the pork slices in a bowl or zip-top bag, pour the adobo over and turn to coat. Marinate in the
-   fridge at least 2 hours and up to overnight (window is an estimate; see Notes).
-5. To cook: shingle the pork and bacon in alternating layers in a loaf pan, cover with foil and roast at
-   300°F / 150°C until tender, about 2 hours. Chill, then slice thin across the stack and sear the slices in
-   a hot cast-iron pan until crisp at the edges. Roast or grill the pineapple quarters until charred and
-   chop them to serve.
+3. In a small pan, heat the oil and bloom the cumin, oregano and achiote for about 30 seconds. Add the
+   chipotle and its sauce, then the vinegar, salt and sugar.
+4. Pour the chiles and stock into the deli container with the spice mixture and garlic. Blend completely
+   smooth with the stick blender, head submerged. It should be about as thick as ketchup.
+5. Slice the pork as thin as you can (15 minutes in the freezer helps), then pound each slice under ¼ in
+   in a zip-top bag. Toss with the adobo. Layer the pork and bacon in a loaf pan, cover and marinate in the
+   fridge at least 4 hours and up to 36 hours.
+6. To cook: bake at 275°F / 135°C until fully tender, about 4 hours (or over indirect heat at about 275°F
+   until the center reaches 180–190°F). Cool, cover and chill at least 2 hours, up to overnight.
+7. To serve: heat the oven to 350°F / 175°C. Brush the pineapple quarters with the rendered fat and roast
+   about 25 minutes, then chop. Slice the meat thin with its fat and crisp it in a skillet with 1 tablespoon
+   of the fat, then add the reserved juices and reduce to a glaze.
 
 ## To serve
 
@@ -68,8 +72,7 @@ On doubled small corn tortillas with charred pineapple, diced white onion, cilan
 ### From the source
 - Kenji layers bacon with the pork for the fat and smoke a vertical spit would give.
 - The pineapple is roasted and served on top, not added to the marinade.
-- Reposts differ slightly: one swaps rice vinegar for white vinegar. The quantities above follow the
-  Umami Recipes and Punchfork copies.
+- The spices are bloomed in oil before blending; the meat marinates layered with the bacon in the loaf pan.
 
 ### Added later (not in the source, confirm or edit)
 - **Stick-blender adaptation.** The simmer in step 2 softens the chile skins enough for a stick blender.
@@ -77,10 +80,10 @@ On doubled small corn tortillas with charred pineapple, diced white onion, cilan
 - **Optional pineapple in the marinade.** Many taqueria versions blend in pineapple. If you try ~100 g fresh
   pineapple in the adobo, keep the soak under 4 hours: its bromelain enzyme turns pork mushy. Canned
   pineapple has been heated and is much safer.
-- **Marinating window** (2 hours to overnight) is an estimate, not confirmed from the source.
 - **Gram estimates** for chiles, garlic, achiote, spices and salt are approximate, not from the source.
-- Serious Eats couldn't be opened from this session. The quantities came via search results summarizing
-  reposts of the recipe.
+- Reposts may differ (one reportedly swaps rice vinegar for white vinegar); not checked.
+- Quantities and method were read from the Umami Recipes copy. Serious Eats and Punchfork blocked
+  fetching, so the original page wasn't read.
 
 ## Test log
 
