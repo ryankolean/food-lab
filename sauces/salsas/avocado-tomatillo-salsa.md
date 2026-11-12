@@ -6,34 +6,36 @@ status: testing
 pairs-with: [tacos, carnitas, milanesa, fish tacos, chips]
 yield: ~1½ cups (per source)
 freezer: untested   # not expected to freeze (avocado)
-source: "Rick Bayless, Mexico—One Plate at a Time / Exploring Mexico's Kitchen S1E1 — https://www.rickbayless.com/recipe/avocado-tomatillo-salsa-2/"
+source: "Rick Bayless, Mexico—One Plate at a Time (Seasons 7 and 9) — https://www.rickbayless.com/recipe/avocado-tomatillo-salsa-2/"
 jira: HOUSE-73
 ---
 
 # Avocado-Tomatillo Salsa
 
 The creamy, pale-green taqueria salsa, with **no cooking at all**: rinse, rough-chop and blend. Raw tomatillo
-gives a sharp, bright acidity and blended avocado makes it creamy. Bayless calls this his favorite balance of
-ingredients; he made it in the first episode of *Exploring Mexico's Kitchen*.
+gives a sharp, bright acidity and blended avocado makes it creamy. Bayless calls it "my current favorite
+balance of ingredients"; he made versions of it on Seasons 7 and 9 of *Mexico: One Plate at a Time*.
 
 ## Ingredients
 
 | Amount | Ingredient | Notes |
 | ---: | --- | --- |
-| ~227 g | Tomatillos | 8 oz (about 4 medium), husked, rinsed, quartered |
-| 1–2 | Fresh serrano chiles | Stemmed; ~6 g each. Or 1 jalapeño |
-| ~10–15 g | Cilantro | ½–⅔ cup loosely packed, stems and all |
-| ~80 g | Water | ⅓ cup, plus a little to thin |
-| 1 large | Ripe avocado | Pitted, flesh scooped out; ~200 g |
-| ~10 g | White onion | About 1 tablespoon; rinsed under cold water (see Notes) |
-| ~4 g | Salt | A scant teaspoon |
+| ~227 g | Tomatillos | 8 oz (3 or 4 medium), husked, rinsed, roughly chopped |
+| 1 | Fresh serrano chile | Stemmed; ~6 g. Or ½ jalapeño. Start there; veins and seeds out if you wish |
+| ~10 g | Cilantro | A small handful, stems and all |
+| ~80 g | Water | ⅓ cup, plus about 1 tablespoon to loosen |
+| 1 | Ripe avocado | Pitted, flesh scooped out; ~200 g |
+| ~10 g | White onion | About 1 tablespoon, finely chopped and rinsed (see Notes) |
+| ~4 g | Salt | Usually a scant teaspoon |
 
 ## Method
 
-1. Put the tomatillos, chile(s), cilantro and water in a quart deli container. Blend with the stick blender to a
-   coarse purée.
-2. Add the avocado (and the onion; see Notes) and blend until smooth and creamy.
-3. Thin with water, about a tablespoon at a time, until spoonable. Season with salt.
+1. Put the tomatillos, chile, cilantro and ⅓ cup water in a quart deli container. Blend with the stick blender
+   to a coarse purée; Bayless likes some texture left.
+2. Add the avocado and pulse until fully combined. Stir in about a tablespoon of water to loosen it to a
+   spoonable consistency.
+3. Rinse the chopped onion in a strainer under cold water, shake off the excess and stir it in (see Notes).
+4. Season with salt, usually a scant teaspoon, and taste.
 
 ## To serve
 
@@ -41,22 +43,24 @@ Right away, ideally within a few hours. Excellent with carnitas, fried fish or a
 
 ## Storage
 
-- **Fridge:** Best within a few hours (per source); 1 day at most with plastic wrap pressed on the surface.
+- **Fridge:** Best eaten within a few hours of making it (per source). 1 day at most with plastic wrap
+  pressed on the surface (estimate).
 - **Freezer:** Not recommended. Avocado browns and changes texture.
 
 ## Notes
 
 ### From the source
-- The blended avocado thickens the salsa and helps keep it from separating, but it's still **best within a
-  few hours**.
+- The avocado helps the texture: a plain raw tomatillo salsa leaks liquid quickly. It's still **best within
+  a few hours**.
 - Bayless notes that a *roasted* tomatillo salsa blended with avocado is also delicious, but "not nearly as
   bright tasting." The raw version is the point.
-- Bayless's original stirs in **finely chopped onion, rinsed** under cold water to tame it.
+- The onion is **finely chopped, rinsed** under cold water and stirred in, not blended. Bayless says blended
+  raw onion or garlic tends to take over the salsa.
 
 ### Added later (not in the source, confirm or edit)
-- **No-knife adaptation:** blend in a small chunk of onion instead of chopping it.
-- **Quantities** combine Bayless's raw tomatillo salsa page and a third-party adaptation of this one. The
-  official ingredient list couldn't be opened from this session; check it against rickbayless.com.
+- **No-knife adaptation:** blending in a small chunk of onion instead of chopping it is an option, but the
+  source warns blended onion takes over. Test it against the rinsed, chopped version.
+- **Gram estimates** for the chile, cilantro, avocado, onion and salt are approximate.
 
 ## Test log
 

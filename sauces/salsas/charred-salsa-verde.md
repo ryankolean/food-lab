@@ -4,7 +4,7 @@ section: sauces
 category: salsas
 status: testing
 pairs-with: [tacos, enchiladas, chilaquiles, eggs, grilled chicken, pork]
-yield: ~3 cups (per source)
+yield: ~3 cups (not confirmed)
 freezer: untested
 source: "J. Kenji López-Alt, Serious Eats — https://www.seriouseats.com/charred-salsa-verde-recipe"
 jira: HOUSE-73
@@ -19,26 +19,29 @@ cooking with (chilaquiles, enchiladas).
 
 ## Ingredients
 
+> Quantities are from a copy of the Serious Eats recipe; the original page was not reachable.
+
 | Amount | Ingredient | Notes |
 | ---: | --- | --- |
-| ~680 g | Tomatillos | 1½ lb, husked, rinsed and split in half |
-| 1 medium | White onion | Peeled and split in half; ~200 g |
-| 2–4 | Serrano or jalapeño chiles | ~6 g each for serrano |
+| 680 g | Tomatillos | 1½ lb (about 10 medium), husks removed, split in half |
+| 170 g | White onion | 1 medium (about 6 oz), peeled and split in half |
+| 2–4 | Serrano or jalapeño chiles | Split in half; seeds and ribs out for milder; ~6 g each for serrano |
 | 10–15 sprigs | Cilantro | Tough lower stems discarded; ~15 g |
 | 1 tablespoon | Vegetable oil | ~13 g |
 | | Kosher salt | To taste |
-| | Lime juice | Optional, to finish |
 
 ## Method
 
-1. Heat the broiler as hot as it goes. Spread the tomatillos (cut side down), onion halves and whole chiles
-   on a foil-lined rimmed sheet. Broil until the tomatillos have collapsed and everything is deeply charred
-   in spots. Let it cool slightly.
-2. Stem the chiles. Put the vegetables and all their juices in a quart deli container with **half** the cilantro
-   and blend smooth with the stick blender.
-3. Heat the oil in a large saucepan over high heat until shimmering. Pour in the salsa all at once (it will
-   spit, so stand back) and cook, stirring, a few minutes until slightly thickened and darker green.
-4. Season with salt. Let it cool, then stir or blend in the rest of the cilantro and lime juice if you like.
+1. Set a rack 4 in below the broiler and heat the broiler to high. Spread the tomatillos, onion halves and
+   chiles on a foil-lined rimmed sheet. Broil until darkly charred and the tomatillos are completely tender,
+   6–12 minutes.
+2. Put the vegetables and all their juices in a quart deli container with **half** the cilantro and pulse with
+   the stick blender to a rough purée.
+3. Heat the oil in a medium saucepan over high heat until shimmering. Pour in the salsa all at once (it will
+   spit, so stand back) and cook, stirring constantly, about 3 minutes, until it darkens and thickens enough
+   to coat a spoon.
+4. Take it off the heat. Finely chop the remaining cilantro and stir it in. Season with salt and let it cool
+   before serving.
 
 ## To serve
 
@@ -46,19 +49,18 @@ At room temperature on tacos, or warm as a sauce for chilaquiles or enchiladas.
 
 ## Storage
 
-- **Fridge:** Up to 5 days.
+- **Fridge:** Up to 5 days (per source).
 - **Freezer:** Untested. The fried salsa is a good candidate. Add the fresh cilantro after thawing.
 
 ## Notes
 
 ### From the source
 - Kenji's version doesn't include garlic. Other charred salsa verdes do, so it's an option to test.
-- The original is cooked on the stovetop or broiler; it also works on a grill.
 
 ### Added later (not in the source, confirm or edit)
-- This was found through search and secondary copies of the recipe; Serious Eats couldn't be opened from this
-  session. Check the quantities against the original.
-- **Gram estimates** for the onion, cilantro and oil are approximate.
+- **No-knife option:** blend the remaining cilantro in briefly instead of chopping it.
+- A squeeze of lime to finish is optional and not in the source.
+- **Gram estimates** for the chiles, cilantro and oil are approximate.
 
 ## Test log
 
