@@ -63,6 +63,39 @@ has not been tested.
 | 23 | Lemon ricotta cookies | [Giada De Laurentiis, Food Network](https://www.foodnetwork.com/recipes/giada-de-laurentiis/lemon-ricotta-cookies-with-lemon-glaze-recipe-1950241) | About 4.5 from 1,289 reviews, reported second-hand. The one soft, citrus cookie on the list. | B |
 | 24 | Soft frosted sugar cookies (Lofthouse style) | [Stella Parks, Serious Eats](https://www.seriouseats.com/soft-frosted-sugar-cookies-homemade-lofthouse) | Overall winner of the Pancake Princess nine-recipe Lofthouse bake-off. Cake flour for the pillowy crumb. | A |
 
+## What each one is
+
+Main elements and flavor for each pick, to decide what stays. These come from general knowledge of the
+recipes and from the research summaries, not from reading the recipe pages, so an ingredient detail may be
+off. Confirm against the source when stubbing.
+
+| Day | Cookie | Main elements | Tastes like | What makes it exceptional |
+| ---: | --- | --- | --- | --- |
+| 1 | Elisenlebkuchen | Ground almonds and hazelnuts, honey, candied orange and lemon peel, gingerbread spices, no flour; baked on a wafer, glazed or dipped in dark chocolate | Soft, moist and chewy, like a spiced nut cake. Warm spice and citrus, not sharp ginger | Nothing else on a cookie plate is like it, and it gets better over weeks |
+| 2 | Italian rainbow cookies | Three thin almond-paste cake layers (red, white, green), apricot jam between, dark chocolate top and bottom | Dense, moist marzipan cake with a line of fruit and a snap of chocolate | The showstopper. Most work on the list, but freezes well and looks like a bakery made it |
+| 3 | World Peace Cookies | Cocoa shortbread dough, brown sugar, chopped dark chocolate, sea salt; slice and bake | Deep, dark chocolate with a sandy crumble, a little chew and a salty finish | A grown-up chocolate cookie, not very sweet. Logs wait in the freezer |
+| 4 | Salted chocolate chunk shortbread | Salted butter, brown sugar, big dark chocolate chunks, crunchy raw-sugar edge, flaky salt | Buttery, toffee-like shortbread with pools of chocolate, crisp at the rim | The salted butter and sugared edge. A chocolate chip cookie crossed with shortbread |
+| 5 | Cranberry pistachio biscotti | Twice-baked dough made with olive oil, dried cranberries, pistachios, vanilla and almond | Crunchy, lightly sweet, tart fruit and nuts. Made for dunking in coffee | Red and green without food coloring, and it keeps for weeks |
+| 6 | Scottish shortbread | Butter, sugar, flour and rice flour. That's all | Pure butter. Crisp, sandy, melts as you chew | The rice flour and double bake give the crisp sandy texture that won its bake-off |
+| 7 | Rugelach | Cream cheese and butter pastry rolled around jam, cinnamon sugar, chopped nuts and sometimes chocolate | A tiny flaky pastry more than a cookie. Tangy, buttery, with a sticky spiced fruit filling | The flaky layers, from handling the dough like pie crust |
+| 8 | Buckeyes | Peanut butter, cream cheese, graham crumbs and powdered sugar, rolled and dipped in dark chocolate. No baking | A peanut butter cup, but softer, less sweet and slightly tangy | Half the sugar of the classic, so the peanut butter comes through |
+| 9 | Gingersnaps | Molasses, ginger, cinnamon and cloves; rolled in sugar | Sharp ginger and molasses with a crackly sugar crust. Crisp, or bendy in the middle if pulled early | One dough, two textures depending on two minutes of bake time |
+| 10 | Melomakarona | Olive oil, orange juice and zest, semolina, cinnamon and clove; soaked in honey syrup, topped with walnuts | Soft, cakey and syrup-soaked. Honey, orange and warm spice, close to baklava | No butter and no eggs, and a flavor nobody expects on an American cookie plate |
+| 11 | Snowballs | Butter, toasted pecans, vanilla; rolled twice in powdered sugar | Tender, nutty and crumbly, barely sweet inside under a sweet powdery coat | Simple and nearly universal. Melts in the mouth |
+| 12 | Soft glazed gingerbread | Dark molasses, ginger, cinnamon, cloves, black pepper and a little cocoa; stamped with a pattern and brushed with a thin glaze | Soft, chewy and dark, with real spice heat. Much bolder than a gingerbread man | Bake-off top pick, and it looks ornate with no piping |
+| 13 | Decorated cut-outs | Butter, powdered sugar and egg yolk dough, vanilla; royal icing | Thin, crisp and buttery, close to shortbread. The icing adds sweet crunch | Tastes good under the decoration, which most cut-out cookies don't |
+| 14 | Burnt sugar ginger molasses | Molasses and ginger dough with shards of homemade ginger caramel folded in | Chewy and flat, warm spice, with pockets of slightly bitter caramel | The caramel. It's the most effort among the drop cookies and the crowd favorite of its bake-off |
+| 15 | Jam thumbprints | Butter and egg yolk dough with white and brown sugar, rolled in sugar, filled with jam | Soft, rich, buttery cookie with a faint caramel note and a bright spot of fruit | Bake-off winner. The brown sugar keeps it from being a bland vehicle for jam |
+| 16 | White chocolate cranberry | Soft brown sugar dough, white chocolate chips, dried cranberries | Soft and chewy, sweet and creamy against tart fruit | An easy, sturdy crowd-pleaser. The sweetest drop cookie here |
+| 17 | Gochujang caramel cookies | Chewy sugar cookie dough rippled with gochujang (Korean chile paste), brown sugar and butter | Chewy with crisp edges. Caramel first, then a gentle savory warmth. Not hot | The surprise of the plate, and the most-rated cookie found anywhere |
+| 18 | Peanut butter blossoms | Soft peanut butter dough rolled in sugar, a chocolate kiss pressed in hot | Soft, salty-sweet peanut butter with a bite of milk chocolate | Pure nostalgia. It's here because people look for it, not because it's refined |
+| 19 | Peppermint bark cookies | Chocolate cookie dipped in white chocolate, crushed candy cane on top | Chocolate and cool mint with a candy crunch | The only mint on the list and the most Christmas-looking |
+| 20 | Coconut macaroons | Shredded coconut, sweetened condensed milk, whipped egg whites; optional dark chocolate dip | Toasty and golden outside, moist and chewy inside. All coconut | Fifteen minutes of work and no flour. The whipped whites keep them from being leaden |
+| 21 | Chocolate crinkles | Cocoa and melted chocolate, brown sugar, a little espresso; rolled in granulated then powdered sugar | A brownie in cookie form: fudgy middle, crackled sugar shell | The double sugar roll keeps the coating white, and the brown sugar keeps it fudgy for days |
+| 22 | Linzer cookies | Almond flour dough, raspberry jam sandwiched between two cookies with a cut-out window, powdered sugar | Tender, nutty and buttery against sharp jam. Softens into something cake-like by day two | The prettiest cookie on the plate. Lowest-rated recipe on the list |
+| 23 | Lemon ricotta cookies | Ricotta in the dough, lemon zest and juice, lemon glaze | A soft little lemon cake. Moist, bright, quite sweet | The only citrus and the only cakey cookie, so it resets the palate |
+| 24 | Lofthouse-style sugar cookies | Cake flour dough, thick vanilla buttercream, sprinkles | Pillowy and cake-soft, sweet vanilla frosting. The grocery-store cookie done properly | Bake-off winner. Loved by kids; too sweet for some adults |
+
 ## What the 24 cover
 
 - **Spice (5):** lebkuchen, gingersnaps, soft glazed gingerbread, burnt sugar ginger molasses, gochujang
