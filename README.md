@@ -27,6 +27,7 @@ section or skipped.
 | Source | Log | How to add | Jira |
 | --- | --- | --- | --- |
 | Instagram Reels, posts and saved collections | [`prospects/instagram.md`](prospects/instagram.md) | `/ig-intake <url>` in Claude Code | [HOUSE-53](https://ryan-kolean.atlassian.net/browse/HOUSE-53) |
+| Christmas cookies: 24 picks, advent-calendar style | [`prospects/christmas-cookies.md`](prospects/christmas-cookies.md) | Edit by hand | |
 
 To run the Instagram intake, start Claude Code in this repo with `claude --chrome`, make sure you're logged
 in to Instagram in that Chrome, and pass it a Reel, post or saved-collection URL:

@@ -6,6 +6,7 @@ then either stubbed into a Food Lab section or skipped.
 | Source | Log | How to add to it |
 | --- | --- | --- |
 | Instagram Reels, posts and saved collections | [`instagram.md`](instagram.md) | `/ig-intake <url>` in Claude Code |
+| Christmas cookies: the 24 with the best outside evidence | [`christmas-cookies.md`](christmas-cookies.md) | Edit by hand; swap from the bench in the file |
 
 ## Running the Instagram intake
 
